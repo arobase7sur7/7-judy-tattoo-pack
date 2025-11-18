@@ -58,15 +58,12 @@ illenium config.lua
 
 Done — the pack will appear as addon tattoos in Illenium.
 
-## 📸 **Screenshots**
-
 ## 📸 Screenshots
 
-| | |
-|---|---|
-| ![Screenshot 1](https://i.ibb.co/LdLHY5ZM/Capture-decran-2025-06-13-132409.png) | ![Screenshot 2](https://i.ibb.co/XfHhKb8L/Capture-decran-2025-06-13-132438.png) |
-| ![Screenshot 3](https://i.ibb.co/3y3MT8Gp/Capture-decran-2025-06-13-132331.png) | ![Screenshot 4](https://i.ibb.co/KcM7N9vW/Capture-decran-2025-06-13-132240.png) |
-
+https://i.ibb.co/LdLHY5ZM/Capture-decran-2025-06-13-132409.png
+https://i.ibb.co/XfHhKb8L/Capture-decran-2025-06-13-132438.png
+https://i.ibb.co/3y3MT8Gp/Capture-decran-2025-06-13-132331.png
+https://i.ibb.co/KcM7N9vW/Capture-decran-2025-06-13-132240.png
 
 ## 🔓 **License**
 
