@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PedDecorationCollection>
+    <bRequiredForSync value="true" />
+    <presets>
+        <Item>
+            <uvPos x="0.84" y="0.55" /><scale x="0.17" y="0.17" /><rotation value="0" /><nameHash>judy_spider_breastl_M</nameHash><txdHash>judy_spider</txdHash><txtHash>judy_spider</txtHash><zone>ZONE_TORSO</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.84" y="0.55" /><scale x="0.08" y="0.08" /><rotation value="0" /><nameHash>judy_spider_breastl_F</nameHash><txdHash>judy_spider</txdHash><txtHash>judy_spider</txtHash><zone>ZONE_TORSO</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.56" y="0.55" /><scale x="0.17" y="0.17" /><rotation value="0" /><nameHash>judy_spider_breastr_M</nameHash><txdHash>judy_spider</txdHash><txtHash>judy_spider</txtHash><zone>ZONE_TORSO</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.64" y="0.55" /><scale x="0.08" y="0.08" /><rotation value="0" /><nameHash>judy_spider_breastr_F</nameHash><txdHash>judy_spider</txdHash><txtHash>judy_spider</txtHash><zone>ZONE_TORSO</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0" y="0" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_spider_shoulderl_M</nameHash><txdHash>judy_spider</txdHash><txtHash>judy_spider</txtHash><zone>ZONE_LEFT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.5" y="0.9" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_spider_shoulderl_F</nameHash><txdHash>judy_spider</txdHash><txtHash>judy_spider</txtHash><zone>ZONE_LEFT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.5" y="0" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_spider_shoulderr_M</nameHash><txdHash>judy_spider</txdHash><txtHash>judy_spider</txtHash><zone>ZONE_RIGHT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.5" y="0.95" /><scale x="0.09" y="0.09" /><rotation value="0" /><nameHash>judy_spider_shoulderr_F</nameHash><txdHash>judy_spider</txdHash><txtHash>judy_spider</txtHash><zone>ZONE_RIGHT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0" y="0" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_spider_elbowl_M</nameHash><txdHash>judy_spider</txdHash><txtHash>judy_spider</txtHash><zone>ZONE_LEFT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.2" y="0.6" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_spider_elbowl_F</nameHash><txdHash>judy_spider</txdHash><txtHash>judy_spider</txtHash><zone>ZONE_LEFT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.4" y="0.6" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_spider_elbowr_M</nameHash><txdHash>judy_spider</txdHash><txtHash>judy_spider</txtHash><zone>ZONE_RIGHT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.8" y="0.6" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_spider_elbowr_F</nameHash><txdHash>judy_spider</txdHash><txtHash>judy_spider</txtHash><zone>ZONE_RIGHT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.45" y="0.77" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_skulll_M</nameHash><txdHash>judy_skull</txdHash><txtHash>judy_skull</txtHash><zone>ZONE_LEFT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.4" y="0.9" /><scale x="0.03" y="0.03" /><rotation value="0" /><nameHash>judy_skulll_F</nameHash><txdHash>judy_skull</txdHash><txtHash>judy_skull</txtHash><zone>ZONE_LEFT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.45" y="0.79" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_skullr_M</nameHash><txdHash>judy_skull</txdHash><txtHash>judy_skull</txtHash><zone>ZONE_RIGHT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.6" y="0.9" /><scale x="0.03" y="0.03" /><rotation value="0" /><nameHash>judy_skullr_F</nameHash><txdHash>judy_skull</txdHash><txtHash>judy_skull</txtHash><zone>ZONE_RIGHT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.73" y="0.67" /><scale x="0.1" y="0.1" /><rotation value="90" /><nameHash>judy_lacel_M</nameHash><txdHash>judy_lace</txdHash><txtHash>judy_lace</txtHash><zone>ZONE_LEFT_LEG</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+  
+        <Item>
+            <uvPos x="0.73" y="0.73" /><scale x="0.17" y="0.35" /><rotation value="90" /><nameHash>judy_lacel_F</nameHash><txdHash>judy_lace</txdHash><txtHash>judy_lace</txtHash><zone>ZONE_LEFT_LEG</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="-0.74" y="0.67" /><scale x="0.02" y="0.35" /><rotation value="90" /><nameHash>judy_lacer_M</nameHash><txdHash>judy_lace</txdHash><txtHash>judy_lace</txtHash><zone>ZONE_RIGHT_LEG</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="-0.73" y="0.73" /><scale x="0.17" y="0.35" /><rotation value="90" /><nameHash>judy_lacer_F</nameHash><txdHash>judy_lace</txdHash><txtHash>judy_lace</txtHash><zone>ZONE_RIGHT_LEG</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.73" y="0.67" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_selfl_M</nameHash><txdHash>judy_self</txdHash><txtHash>judy_self</txtHash><zone>ZONE_LEFT_LEG</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.5" y="0.95" /><scale x="0.08" y="0.08" /><rotation value="0" /><nameHash>judy_selfl_F</nameHash><txdHash>judy_self</txdHash><txtHash>judy_self</txtHash><zone>ZONE_LEFT_LEG</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.5" y="0.67" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_selfr_M</nameHash><txdHash>judy_self</txdHash><txtHash>judy_self</txtHash><zone>ZONE_RIGHT_LEG</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.5" y="0.95" /><scale x="0.08" y="0.08" /><rotation value="0" /><nameHash>judy_selfr_F</nameHash><txdHash>judy_self</txdHash><txtHash>judy_self</txtHash><zone>ZONE_RIGHT_LEG</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.45" y="0.77" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_fearl_M</nameHash><txdHash>judy_fear</txdHash><txtHash>judy_fear</txtHash><zone>ZONE_LEFT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.5" y="0.7" /><scale x="0.07" y="0.07" /><rotation value="0" /><nameHash>judy_fearl_F</nameHash><txdHash>judy_fear</txdHash><txtHash>judy_fear</txtHash><zone>ZONE_LEFT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.45" y="0.77" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_fearr_M</nameHash><txdHash>judy_fear</txdHash><txtHash>judy_fear</txtHash><zone>ZONE_RIGHT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.5" y="0.7" /><scale x="0.07" y="0.07" /><rotation value="0" /><nameHash>judy_fearr_F</nameHash><txdHash>judy_fear</txdHash><txtHash>judy_fear</txtHash><zone>ZONE_RIGHT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.45" y="0.79" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_flower_armr_M</nameHash><txdHash>judy_flower</txdHash><txtHash>judy_flower</txtHash><zone>ZONE_RIGHT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.37" y="0.65" /><scale x="0.07" y="0.07" /><rotation value="0" /><nameHash>judy_flower_armr_F</nameHash><txdHash>judy_flower</txdHash><txtHash>judy_flower</txtHash><zone>ZONE_RIGHT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.45" y="0.77" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_flower_arml_M</nameHash><txdHash>judy_flower</txdHash><txtHash>judy_flower</txtHash><zone>ZONE_LEFT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.30" y="0.66" /><scale x="0.05" y="0.05" /><rotation value="0" /><nameHash>judy_flower_arml_F</nameHash><txdHash>judy_flower</txdHash><txtHash>judy_flower</txtHash><zone>ZONE_LEFT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.8" y="0.49" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_flower_wrista_M</nameHash><txdHash>judy_flower</txdHash><txtHash>judy_flower</txtHash><zone>ZONE_LEFT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+
+        <Item>
+            <uvPos x="0.7" y="0.34" /><scale x="0.045" y="0.045" /><rotation value="0" /><nameHash>judy_flower_wrista_F</nameHash><txdHash>judy_flower</txdHash><txtHash>judy_flower</txtHash><zone>ZONE_LEFT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.8" y="0.49" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_flower_wristb_M</nameHash><txdHash>judy_flower</txdHash><txtHash>judy_flower</txtHash><zone>ZONE_LEFT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.2" y="0.34" /><scale x="0.05" y="0.05" /><rotation value="0" /><nameHash>judy_flower_wristb_F</nameHash><txdHash>judy_flower</txdHash><txtHash>judy_flower</txtHash><zone>ZONE_LEFT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.5" y="0.25" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_flower_necka_M</nameHash><txdHash>judy_flower</txdHash><txtHash>judy_flower</txtHash><zone>ZONE_HEAD</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.7" y="0.25" /><scale x="0.1" y="0.1" /><rotation value="-45" /><nameHash>judy_flower_necka_F</nameHash><txdHash>judy_flower</txdHash><txtHash>judy_flower</txtHash><zone>ZONE_HEAD</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.5" y="0.25" /><scale x="0.07" y="0.1" /><rotation value="0" /><nameHash>judy_flower_neckb_M</nameHash><txdHash>judy_flower</txdHash><txtHash>judy_flower</txtHash><zone>ZONE_HEAD</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.3" y="0.25" /><scale x="0.1" y="0.1" /><rotation value="-45" /><nameHash>judy_flower_neckb_F</nameHash><txdHash>judy_flower</txdHash><txtHash>judy_flower</txtHash><zone>ZONE_HEAD</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.45" y="0.77" /><scale x="0.1" y="0.1" /><rotation value="90" /><nameHash>judy_13_arml_M</nameHash><txdHash>judy_13</txdHash><txtHash>judy_13</txtHash><zone>ZONE_LEFT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.46" y="0.76" /><scale x="0.055" y="0.055" /><rotation value="-90" /><nameHash>judy_13_arml_F</nameHash><txdHash>judy_13</txdHash><txtHash>judy_13</txtHash><zone>ZONE_LEFT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.45" y="0.79" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_13_armr_M</nameHash><txdHash>judy_13</txdHash><txtHash>judy_13</txtHash><zone>ZONE_RIGHT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.54" y="0.76" /><scale x="0.055" y="0.055" /><rotation value="-90" /><nameHash>judy_13_armr_F</nameHash><txdHash>judy_13</txdHash><txtHash>judy_13</txtHash><zone>ZONE_RIGHT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.5" y="0.25" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_m_neck_M</nameHash><txdHash>judy_m</txdHash><txtHash>judy_m</txtHash><zone>ZONE_HEAD</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+
+        <Item>
+            <uvPos x="0.68" y="0.35" /><scale x="0.12" y="0.07" /><rotation value="15" /><nameHash>judy_m_neck_F</nameHash><txdHash>judy_m</txdHash><txtHash>judy_m</txtHash><zone>ZONE_HEAD</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.16" y="0.49" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_wrist_lace_M</nameHash><txdHash>judy_lace</txdHash><txtHash>judy_lace</txtHash><zone>ZONE_RIGHT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.16" y="0.30" /><scale x="0.05" y="0.35" /><rotation value="90" /><nameHash>judy_wrist_lace_F</nameHash><txdHash>judy_lace</txdHash><txtHash>judy_lace</txtHash><zone>ZONE_RIGHT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.64" y="0.62" /><scale x="0.1" y="0.1" /><rotation value="90" /><nameHash>judy_sink_breastr_M</nameHash><txdHash>judy_sink</txdHash><txtHash>judy_sink</txtHash><zone>ZONE_TORSO</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.62" y="0.47" /><scale x="0.04" y="0.1" /><rotation value="90" /><nameHash>judy_sink_breastr_F</nameHash><txdHash>judy_sink</txdHash><txtHash>judy_sink</txtHash><zone>ZONE_TORSO</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.82" y="0.62" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_sinkl_M</nameHash><txdHash>judy_sink</txdHash><txtHash>judy_sink</txtHash><zone>ZONE_TORSO</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.84" y="0.47" /><scale x="0.04" y="0.1" /><rotation value="90" /><nameHash>judy_sinkl_F</nameHash><txdHash>judy_sink</txdHash><txtHash>judy_sink</txtHash><zone>ZONE_TORSO</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.64" y="0.62" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_truck_M</nameHash><txdHash>judy_truck</txdHash><txtHash>judy_truck</txtHash><zone>ZONE_TORSO</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.66" y="0.72" /><scale x="0.1" y="0.1" /><rotation value="-15" /><nameHash>judy_truck_F</nameHash><txdHash>judy_truck</txdHash><txtHash>judy_truck</txtHash><zone>ZONE_TORSO</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.45" y="0.79" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_dolphin_M</nameHash><txdHash>judy_dolphin</txdHash><txtHash>judy_dolphin</txtHash><zone>ZONE_RIGHT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.45" y="0.82" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_dolphin_F</nameHash><txdHash>judy_dolphin</txdHash><txtHash>judy_dolphin</txtHash><zone>ZONE_RIGHT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.225" y="0.38" /><scale x="0.1" y="0.1" /><rotation value="90" /><nameHash>judy_dont_like_M</nameHash><txdHash>judy_dont_like</txdHash><txtHash>judy_dont_like</txtHash><zone>ZONE_LEFT_LEG</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.5" y="0.20" /><scale x="0.07" y="0.1" /><rotation value="90" /><nameHash>judy_dont_like_F</nameHash><txdHash>judy_dont_like</txdHash><txtHash>judy_dont_like</txtHash><zone>ZONE_LEFT_LEG</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.45" y="0.77" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_ghost_M</nameHash><txdHash>judy_ghost</txdHash><txtHash>judy_ghost</txtHash><zone>ZONE_LEFT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.57" y="0.88" /><scale x="0.03" y="0.06" /><rotation value="-25" /><nameHash>judy_ghost_F</nameHash><txdHash>judy_ghost</txdHash><txtHash>judy_ghost</txtHash><zone>ZONE_LEFT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0" y="0.39" /><scale x="0.1" y="0.1" /><rotation value="90" /><nameHash>judy_overcome_M</nameHash><txdHash>judy_overcome</txdHash><txtHash>judy_overcome</txtHash><zone>ZONE_HEAD</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0" y="0.37" /><scale x="0.07" y="0.11" /><rotation value="90" /><nameHash>judy_overcome_F</nameHash><txdHash>judy_overcome</txdHash><txtHash>judy_overcome</txtHash><zone>ZONE_HEAD</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="-0.755" y="0.62" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_baby_M</nameHash><txdHash>judy_baby</txdHash><txtHash>judy_baby</txtHash><zone>ZONE_TORSO</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="-0.755" y="0.76" /><scale x="0.09" y="0.09" /><rotation value="0" /><nameHash>judy_baby_F</nameHash><txdHash>judy_baby</txdHash><txtHash>judy_baby</txtHash><zone>ZONE_TORSO</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.8" y="0.49" /><scale x="0.1" y="0.1" /><rotation value="90" /><nameHash>judy_moxes_M</nameHash><txdHash>judy_moxes</txdHash><txtHash>judy_moxes</txtHash><zone>ZONE_LEFT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.4" y="0.50" /><scale x="0.1" y="0.1" /><rotation value="90" /><nameHash>judy_moxes_F</nameHash><txdHash>judy_moxes</txdHash><txtHash>judy_moxes</txtHash><zone>ZONE_LEFT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.82" y="0.25" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_shark_M</nameHash><txdHash>judy_shark</txdHash><txtHash>judy_shark</txtHash><zone>ZONE_TORSO</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.95" y="0.45" /><scale x="0.18" y="0.11" /><rotation value="15" /><nameHash>judy_shark_F</nameHash><txdHash>judy_shark</txdHash><txtHash>judy_shark</txtHash><zone>ZONE_TORSO</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.82" y="0.25" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_from_sea_M</nameHash><txdHash>judy_from_sea</txdHash><txtHash>judy_from_sea</txtHash><zone>ZONE_TORSO</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.95" y="0.39" /><scale x="0.15" y="0.1" /><rotation value="13" /><nameHash>judy_from_sea_F</nameHash><txdHash>judy_from_sea</txdHash><txtHash>judy_from_sea</txtHash><zone>ZONE_TORSO</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.16" y="0.49" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_underwater_M</nameHash><txdHash>judy_underwater</txdHash><txtHash>judy_underwater</txtHash><zone>ZONE_RIGHT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.55" y="0.43" /><scale x="0.12" y="0.12" /><rotation value="180" /><nameHash>judy_underwater_F</nameHash><txdHash>judy_underwater</txdHash><txtHash>judy_underwater</txtHash><zone>ZONE_RIGHT_ARM</zone>
+            <type>TYPE_TATTOO</type><faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.8" y="0.49" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_boom_M</nameHash><txdHash>judy_boom</txdHash><txtHash>judy_boom</txtHash><zone>ZONE_LEFT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.42" y="0.37" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_boom_F</nameHash><txdHash>judy_boom</txdHash><txtHash>judy_boom</txtHash><zone>ZONE_LEFT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="-0.74" y="0.67" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_owls_M</nameHash><txdHash>judy_owls</txdHash><txtHash>judy_owls</txtHash><zone>ZONE_RIGHT_LEG</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="-0.53" y="0.76" /><scale x="0.12" y="0.17" /><rotation value="0" /><nameHash>judy_owls_F</nameHash><txdHash>judy_owls</txdHash><txtHash>judy_owls</txtHash><zone>ZONE_RIGHT_LEG</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="-0.86" y="0.25" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_seahorsesa_M</nameHash><txdHash>judy_seahorsesa</txdHash><txtHash>judy_seahorsesa</txtHash><zone>ZONE_TORSO</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="-0.84" y="0.4" /><scale x="0.17" y="0.1" /><rotation value="0" /><nameHash>judy_seahorsesa_F</nameHash><txdHash>judy_seahorsesa</txdHash><txtHash>judy_seahorsesa</txtHash><zone>ZONE_TORSO</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="-0.68" y="0.25" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_seahorsesb_M</nameHash><txdHash>judy_seahorsesb</txdHash><txtHash>judy_seahorsesb</txtHash><zone>ZONE_TORSO</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="-0.70" y="0.4" /><scale x="0.17" y="0.1" /><rotation value="0" /><nameHash>judy_seahorsesb_F</nameHash><txdHash>judy_seahorsesb</txdHash><txtHash>judy_seahorsesb</txtHash><zone>ZONE_TORSO</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.16" y="0.49" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_pulpo_M</nameHash><txdHash>judy_pulpo</txdHash><txtHash>judy_pulpo</txtHash><zone>ZONE_RIGHT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.55" y="0.20" /><scale x="0.06" y="0.06" /><rotation value="0" /><nameHash>judy_pulpo_F</nameHash><txdHash>judy_pulpo</txdHash><txtHash>judy_pulpo</txtHash><zone>ZONE_RIGHT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.16" y="0.49" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_techskull_M</nameHash><txdHash>judy_techskull</txdHash><txtHash>judy_techskull</txtHash><zone>ZONE_RIGHT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.66" y="0.73" /><scale x="0.09" y="0.11" /><rotation value="15" /><nameHash>judy_techskull_F</nameHash><txdHash>judy_techskull</txdHash><txtHash>judy_techskull</txtHash><zone>ZONE_RIGHT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.64" y="0.25" /><scale x="0.1" y="0.1" /><rotation value="90" /><nameHash>judy_cat_M</nameHash><txdHash>judy_cat</txdHash><txtHash>judy_cat</txtHash><zone>ZONE_TORSO</zone><type>TYPE_TATTOO</type><faction>FM</faction>
+            <garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.725" y="0.265" /><scale x="0.1" y="0.12" /><rotation value="90" /><nameHash>judy_cat_F</nameHash><txdHash>judy_cat</txdHash><txtHash>judy_cat</txtHash><zone>ZONE_TORSO</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.225" y="0.38" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_lips_M</nameHash><txdHash>judy_lips</txdHash><txtHash>judy_lips</txtHash><zone>ZONE_LEFT_LEG</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.5" y="0.24" /><scale x="0.055" y="0.1" /><rotation value="-90" /><nameHash>judy_lips_F</nameHash><txdHash>judy_lips</txdHash><txtHash>judy_lips</txtHash><zone>ZONE_LEFT_LEG</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.45" y="0.77" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_feet_spider_M</nameHash><txdHash>judy_spider</txdHash><txtHash>judy_spider</txtHash><zone>ZONE_LEFT_LEG</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>        
+        <Item>
+            <uvPos x="0.43" y="0.10" /><scale x="0.13" y="0.1" /><rotation value="0" /><nameHash>judy_feet_spider_F</nameHash><txdHash>judy_spider</txdHash><txtHash>judy_spider</txtHash><zone>ZONE_LEFT_LEG</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.45" y="0.77" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_rosea_M</nameHash><txdHash>judy_rosea</txdHash><txtHash>judy_rosea</txtHash><zone>ZONE_LEFT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.75" y="0.74" /><scale x="0.1" y="0.13" /><rotation value="10" /><nameHash>judy_rosea_F</nameHash><txdHash>judy_rosea</txdHash><txtHash>judy_rosea</txtHash><zone>ZONE_LEFT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.45" y="0.77" /><scale x="0.1" y="0.1" /><rotation value="0" /><nameHash>judy_roseb_M</nameHash><txdHash>judy_roseb</txdHash><txtHash>judy_roseb</txtHash><zone>ZONE_LEFT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM</faction><garment>ALL</garment><gender>GENDER_MALE</gender>
+        </Item>
+        <Item>
+            <uvPos x="0.28" y="0.77" /><scale x="0.1" y="0.13" /><rotation value="-10" /><nameHash>judy_roseb_F</nameHash><txdHash>judy_roseb</txdHash><txtHash>judy_roseb</txtHash><zone>ZONE_LEFT_ARM</zone><type>TYPE_TATTOO</type>
+            <faction>FM_F</faction><garment>ALL</garment><gender>GENDER_FEMALE</gender>
+        </Item>
+    </presets>
+    <nameHash>judy_overlays</nameHash>
+</PedDecorationCollection>
